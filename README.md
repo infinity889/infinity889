@@ -1,47 +1,66 @@
-<h1 align="center">Hi 👋, I'm Nurbol</h1>
-<h3 align="center">Full-Stack Developer 💻 | Crafting modern web & mobile applications</h3>
-
-
-## 👨‍💻 About Me
-
-- 🔭 **Currently:** Building full-stack projects and competing in hackathons.
-- 🌱 **Learning:** Deepening my knowledge in API optimization, database design, and backend architecture.
-- 💻 **Workspace:** I prefer a terminal-centric workflow, tiling window managers, and **Fedora Linux**.
-
-
----
-
----
-
-## 🛠 Tech Stack & Tools
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,sass,react,nextjs,vue,redux&perline=10" alt="Frontend and Languages" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgres,firebase,nginx,docker&perline=10" alt="Backend and DB" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,flutter,unity,blender,figma,linux,postman,vscode,github&perline=10" alt="Other Tools" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20I'm%20Nurbol&fontSize=70&animation=fadeIn" />
+
+  <h3>🚀 Full-Stack Developer | Tiling WM Enthusiast | Fedora User</h3>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+    <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </p>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### 👨‍💻 Обо мне
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Qogam Map** | Project that my team and I developed in 2 days of AI Hackathon | <img src="https://skillicons.dev/icons?i=react,ts,django" height="25" /> |
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>🔭 <b>Currently:</b> Full-stack projects & Hackathons</li>
+        <li>🌱 <b>Learning:</b> API optimization & DB Design</li>
+        <li>💻 <b>Setup:</b> Terminal-centric, Tiling WM</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>🖥 <b>OS:</b> Fedora Linux</li>
+        <li>📫 <b>Contact:</b> <a href="mailto:olzagula@gmail.com">olzagula@gmail.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Activity
+### 🛠 Мой Стек
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/infinity889" alt="Github chart" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,vue,nodejs,django,mongodb,postgres,docker,flutter,figma,linux&perline=14" />
+</p>
+
+---
+
+### 🚀 Проекты
+
+| Проект | Описание | Стек |
+| :--- | :--- | :--- |
+| **Qogam Map** | Победитель AI Hackathon (2 дня разработки) | `React` `TS` `Django` |
+
+---
+
+### 📈 Статистика
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=infinity889&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinity889&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=infinity889&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/infinity889">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=infinity889&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinity889&layout=compact&hide_title=1&card_width=300&theme=tokyonight" alt="Top Languages" />
-  </a>
+  <img src="https://ghchart.rshah.org/007ACC/infinity889" alt="Github chart" />
 </p>
