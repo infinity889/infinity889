@@ -27,7 +27,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Qogam Map]** | Short description of your awesome project | <img src="https://skillicons.dev/icons?i=react,ts,django" height="25" /> |
+| **Qogam Map** | Project that my team and I developed in 2 days of AI Hackathon | <img src="https://skillicons.dev/icons?i=react,ts,django" height="25" /> |
 
 ---
 
