@@ -26,7 +26,6 @@
     <td width="50%" valign="top">
       <ul>
         <li>🖥 <b>OS:</b> Fedora Linux</li>
-        <li>📫 <b>Contact:</b> <a href="mailto:olzagula@gmail.com">olzagula@gmail.com</a></li>
       </ul>
     </td>
   </tr>
