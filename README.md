@@ -1,37 +1,53 @@
 <h1 align="center">Hi 👋, I'm Nurbol</h1>
-<h3 align="center">A passionate Full-Stack Developer 💻</h3>
-
-<p align="left">
-  🔭 <b>Currently:</b> Building full-stack projects and competing in hackathons.<br>
-  🌱 <b>Learning:</b> Deepening my knowledge in API optimization, database design, and backend architecture.<br>
-  💻 <b>Workspace:</b> I prefer a terminal-centric workflow, tiling window managers, and <b>Fedora Linux</b>.
-</p>
+<h3 align="center">Full-Stack Developer 💻 | Crafting modern web & mobile applications</h3>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <br />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJpNjhsMnV3bjNib2QwaDVpYjNmZzB0eWQxMHVzejBmNXNubDRkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/I6wUi5eTdUCWI/giphy.gif" width="530" alt="coding-gif" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 **Currently:** Building full-stack projects and competing in hackathons.
+- 🌱 **Learning:** Deepening my knowledge in API optimization, database design, and backend architecture.
+- 💻 **Workspace:** I prefer a terminal-centric workflow, tiling window managers, and **Fedora Linux**.
+- 📫 **How to reach me:** [ТВОЙ_EMAIL@gmail.com](mailto:ТВОЙ_EMAIL@gmail.com)
+
+---
+
+## 🛠 Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,vue,bootstrap,tailwind&perline=10" alt="Frontend and Languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgres,nginx&perline=10" alt="Backend and DB" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flutter,unity,blender,figma,linux,fedora,vscode,git&perline=10" alt="Other Tools" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Project Name]** | Short description of your awesome project | <img src="https://skillicons.dev/icons?i=react,ts,django" height="25" /> |
+| **[Another One]** | Mobile app or game description | <img src="https://skillicons.dev/icons?i=flutter,firebase" height="25" /> |
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/infinity889" alt="Github chart" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  </p>
+<p align="center">
+  <a href="https://github.com/infinity889">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=infinity889&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinity889&layout=compact&hide_title=1&card_width=300&theme=tokyonight" alt="Top Languages" />
+  </a>
+</p>
