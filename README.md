@@ -11,14 +11,16 @@
 
 ---
 
+---
+
 ## 🛠 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,vue,bootstrap,tailwind&perline=10" alt="Frontend and Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,sass,react,nextjs,vue,redux&perline=10" alt="Frontend and Languages" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgres,nginx&perline=10" alt="Backend and DB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgres,firebase,nginx,docker&perline=10" alt="Backend and DB" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=flutter,unity,blender,figma,linux,fedora,vscode,git&perline=10" alt="Other Tools" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,flutter,unity,blender,figma,linux,fedora,vscode,github&perline=10" alt="Other Tools" />
 </div>
 
 ---
