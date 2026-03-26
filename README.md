@@ -45,19 +45,13 @@
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
-| **Qogam Map** | Победитель AI Hackathon (2 дня разработки) | `React` `TS` `Django` |
+| **Qogam Map** | AI Hackathon (2 дня разработки) | `React` `TS` `Django` |
 
 ---
 
 ---
 
 ### 📈 Моя Активность
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=infinity889&theme=radical&no-bg=true&column=7" alt="trophies" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=infinity889&show_icons=true&theme=radical&hide_border=true&title_color=007ACC" height="180" />
