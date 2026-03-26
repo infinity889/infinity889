@@ -14,22 +14,11 @@
 
 ### 👨‍💻 Обо мне
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li>🔭 <b>Currently:</b> Full-stack projects & Hackathons</li>
-        <li>🌱 <b>Learning:</b> API optimization & DB Design</li>
-        <li>💻 <b>Setup:</b> Terminal-centric, Tiling WM</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li>🖥 <b>OS:</b> Fedora Linux</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+> Я разработчик, который ценит эффективность и минимализм. Мой воркфлоу построен вокруг терминала, тайлинговых оконных менеджеров и мощи Fedora Linux.
+
+- 🔭 **Сейчас работаю над:** Full-stack проектами и участвую в хакатонах.
+- 🌱 **Изучаю:** Оптимизацию API, проектирование баз данных и архитектуру бэкенда.
+- 💻 **Мой setup:** Terminal-centric workflow, Fedora Linux.
 
 ---
 
