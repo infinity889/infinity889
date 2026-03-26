@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20I'm%20Nurbol&fontSize=70&animation=fadeIn" />
 
-  <h3>🚀 Full-Stack Developer | Tiling WM Enthusiast | Fedora User</h3>
+  <h3>🚀 Full-Stack Developer</h3>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
