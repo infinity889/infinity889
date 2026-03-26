@@ -1,20 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nurbol</h1>
 <h3 align="center">Full-Stack Developer 💻 | Crafting modern web & mobile applications</h3>
 
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJpNjhsMnV3bjNib2QwaDVpYjNmZzB0eWQxMHVzejBmNXNubDRkZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/I6wUi5eTdUCWI/giphy.gif" width="530" alt="coding-gif" />
-</div>
-
----
 
 ## 👨‍💻 About Me
 
 - 🔭 **Currently:** Building full-stack projects and competing in hackathons.
 - 🌱 **Learning:** Deepening my knowledge in API optimization, database design, and backend architecture.
 - 💻 **Workspace:** I prefer a terminal-centric workflow, tiling window managers, and **Fedora Linux**.
-- 📫 **How to reach me:** [ТВОЙ_EMAIL@gmail.com](mailto:ТВОЙ_EMAIL@gmail.com)
+
 
 ---
 
