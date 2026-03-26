@@ -27,8 +27,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Project Name]** | Short description of your awesome project | <img src="https://skillicons.dev/icons?i=react,ts,django" height="25" /> |
-| **[Another One]** | Mobile app or game description | <img src="https://skillicons.dev/icons?i=flutter,firebase" height="25" /> |
+| **[Qogam Map]** | Short description of your awesome project | <img src="https://skillicons.dev/icons?i=react,ts,django" height="25" /> |
 
 ---
 
