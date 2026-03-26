@@ -20,7 +20,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgres,firebase,nginx,docker&perline=10" alt="Backend and DB" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,flutter,unity,blender,figma,linux,fedora,vscode,github&perline=10" alt="Other Tools" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,flutter,unity,blender,figma,linux,postman,vscode,github&perline=10" alt="Other Tools" />
 </div>
 
 ---
