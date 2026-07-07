@@ -41,21 +41,4 @@
 ---
 
 
----
 
-### 📈 Моя Активность
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=infinity889&show_icons=true&theme=radical&hide_border=true&title_color=007ACC" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinity889&layout=compact&theme=radical&hide_border=true&title_color=007ACC" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=infinity889&theme=radical&hide_border=true" width="100%" />
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/007ACC/infinity889" width="100%" alt="Github chart" />
-</p>
