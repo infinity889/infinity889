@@ -30,13 +30,17 @@
 
 ---
 
-### 🚀 Проекты
+## 🚀 Featured Projects
 
-| Проект | Описание | Стек |
-| :--- | :--- | :--- |
-| **Qogam Map** | AI Hackathon (2 дня разработки) | `React` `TS` `Django` |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[QogamAI](https://github.com/Lumix1337/qogam-analyze-ai)** | Project that my team and I developed in 2 days of AI Hackathon | <img src="https://skillicons.dev/icons?i=react,ts" height="30" /> |
+| **[Telegram AI Bot](https://github.com/Lumix1337/telegram-ai-bot)** | Telegram bot with AI features | <img src="https://skillicons.dev/icons?i=nodejs,ts" height="30" /> |
+| **[Easytap AI](https://github.com/Lumix1337/easytap-ai-frontend)** | Easytap AI designed for solve problems that connected with unemployment | <img src="https://skillicons.dev/icons?i=react,ts,tailwindcss" height="30" /> |
+| **[MedPrice](https://github.com/Lumix1337/med-service-price)** | MedPrice medical services aggregator | <img src="https://skillicons.dev/icons?i=react,ts,tailwindcss" height="30" /> |
 
 ---
+
 
 ---
 
