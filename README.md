@@ -35,7 +35,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[QogamAI](https://github.com/infinity889/ThunderMInd-Prokaratura)** | Project that my team and I developed in 2 days of AI Hackathon | <img src="https://skillicons.dev/icons?i=react,ts" height="30" /> |
+| **[QogamAI](https://github.com/infinity889/ThunderMInd-Prokaratura)** | Project that my team and I developed in 2 days of AI Hackathon | <img src="https://skillicons.dev/icons?i=react,ts,django" height="30" /> |
 | **[Easytap AI](https://github.com/infinity889/Easytap-ai)** | Easytap AI designed for solve problems that connected with unemployment | <img src="https://skillicons.dev/icons?i=react,ts,tailwindcss" height="30" /> |
 | **[MedPrice](https://github.com/infinity889/med-service-app/tree/feat/backend)** | MedPrice medical services aggregator | <img src="https://skillicons.dev/icons?i=react,ts,tailwindcss" height="30" /> |
 
