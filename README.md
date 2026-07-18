@@ -26,7 +26,7 @@
 ### 🛠 My Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nestjs,fastapi,vue,nodejs,django,mongodb,postgres,docker,flutter,figma,linux&perline=14 height=200" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nestjs,fastapi,vue,nodejs,django,mongodb,postgres,docker,flutter,figma,linux&perline=14" />
 </p>
 
 ---
