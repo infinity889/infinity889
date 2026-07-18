@@ -12,21 +12,21 @@
 
 ---
 
-### 👨‍💻 Обо мне
+### 👨‍💻 About Me
 
-> Я разработчик, который ценит эффективность и минимализм. Мой воркфлоу построен вокруг терминала, тайлинговых оконных менеджеров и мощи Fedora Linux.
+> I am a developer who values ​​efficiency and minimalism. My workflow is built around the terminal, tiling window managers, and the power of Fedora Linux.
 
-- 🔭 **Сейчас работаю над:** Full-stack проектами и участвую в хакатонах.
-- 🌱 **Изучаю:** Оптимизацию API, проектирование баз данных и архитектуру бэкенда.
-- 💻 **Мой setup:** Terminal-centric workflow, Fedora Linux.
-- 🏆 Достижения: II место на Auyl Hackathon.
+- 🔭 **Currently working on:** Full-stack projects and participating in hackathons.
+- 🌱 **I am exploring:** API optimization, database design, and backend architecture; I also enjoy making games in Godot from time to time.
+- 💻 **My setup:** Terminal-centric workflow, Fedora Linux.
+- 🏆 Achievements: 2nd place at the Auyl Hackathon.
 
 ---
 
-### 🛠 Мой Стек
+### 🛠 My Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,vue,nodejs,django,mongodb,postgres,docker,flutter,figma,linux&perline=14" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nestjs,fastapi,vue,nodejs,django,mongodb,postgres,docker,flutter,figma,linux&perline=14" />
 </p>
 
 ---
