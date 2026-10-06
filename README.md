@@ -1,5 +1,5 @@
 <div align="center">
-  <gif src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5mNzMyeDU0aGh6YnNkazNoZ3Q5cWZjNnVnNXJ3YnU4NW94a3N0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/100UfLK3BfHYys/giphy.gif" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5mNzMyeDU0aGh6YnNkazNoZ3Q5cWZjNnVnNXJ3YnU4NW94a3N0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/100UfLK3BfHYys/giphy.gif" width="200" />
 
   <h3>🚀 Full-Stack Developer</h3>
 
@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </p>
 </div>
-
 ---
 
 ### 👨‍💻 About Me
