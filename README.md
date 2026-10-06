@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5mNzMyeDU0aGh6YnNkazNoZ3Q5cWZjNnVnNXJ3YnU4NW94a3N0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/100UfLK3BfHYys/giphy.gif" width="200" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5mNzMyeDU0aGh6YnNkazNoZ3Q5cWZjNnVnNXJ3YnU4NW94a3N0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/100UfLK3BfHYys/giphy.gif" width="800" />
 
   <h3>🚀 Full-Stack Developer</h3>
 
