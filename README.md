@@ -32,8 +32,7 @@
 
 #### 🎮 GameDev Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=godot,unity,blender&perline=4" />
-  <img src="https://img.shields.io/badge/Krita-20324E?style=for-the-badge&logo=krita&logoColor=white" style="vertical-align: top; margin-top: 4px;" />
+  <img src="https://skillicons.dev/icons?i=godot,unity,blender,inkscape&perline=4" />
 </p>
 
 ---
