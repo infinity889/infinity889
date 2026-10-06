@@ -32,7 +32,10 @@
 
 #### 🎮 GameDev Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=godot,unity,blender,inkscape&perline=4" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inkscape-1C1C1C?style=for-the-badge&logo=inkscape&logoColor=white" />
 </p>
 
 ---
