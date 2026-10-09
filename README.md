@@ -4,7 +4,7 @@
   <h3>🚀 Full-Stack & Game Developer</h3>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+    <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=cachy&logoColor=white" />
     <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </p>
